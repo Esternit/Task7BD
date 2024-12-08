@@ -2,8 +2,8 @@ version: "3.8"
 
 services:
   script:
-    # image: esternit/task2bd:latest
-    build: ./script/
+    image: esternit/task7bd:latest
+    # build: ./script/
     ports:
       - "8000:8000"
     container_name: script-mtg

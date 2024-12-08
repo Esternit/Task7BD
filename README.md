@@ -37,7 +37,7 @@ docker-compose up -d
 ## Шаг 6: Код в репозитории
 
 Исходный код проекта доступен в репозитории на GitHub:
-[https://github.com/Esternit/Task2BD](https://github.com/Esternit/Task2BD) в папке `script/src/script.py`.
+[https://github.com/Esternit/Task7BD](https://github.com/Esternit/Task7BD) в папке `script/src/script.py`.
 
 ## Шаг 7: Данные для подключения к базе данных
 
