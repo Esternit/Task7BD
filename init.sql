@@ -8,7 +8,7 @@ CREATE TABLE users (
 CREATE TABLE products (
     id SERIAL PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
-    price DECIMAL(10, 2),
+    price FLOAT NOT NULL,
     stock INT
 );
 
